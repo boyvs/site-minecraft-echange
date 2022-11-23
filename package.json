@@ -1,0 +1,10 @@
+{
+  "name": "site-minecraft",
+  "version": "0.0.1",
+  "description": "site d'echange pour minecraft",
+  "main": "main.js",
+  "repository": "https://github.com/boyvs/site-minecraft-echange.git",
+  "author": "Lucien <lucien.laux@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
