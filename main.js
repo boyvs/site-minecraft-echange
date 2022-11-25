@@ -1,1 +1,3 @@
-console.log("oui")
+function toggleNav() {
+    document.body.classList.toggle("nav-open");
+}

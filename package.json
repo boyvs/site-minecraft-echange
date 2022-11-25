@@ -6,5 +6,11 @@
   "repository": "https://github.com/boyvs/site-minecraft-echange.git",
   "author": "Lucien <lucien.laux@gmail.com>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "aws-sdk": "^2.1260.0",
+    "browserify": "^17.0.0",
+    "fs-web": "^1.0.1",
+    "prompt-sync": "^4.2.0"
+  }
 }
